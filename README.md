@@ -1,5 +1,5 @@
 # SFILE
-Tools Downloader Auto SFile, SuperPowerfull Can Download [ **png,apk,ehi,ktr,acm,pdf,doc** ] dsb.\
+Tools Downloader Auto SFile, SuperPowerfull Can Download [ **png,apk,ehi,ktr** ] dsb.\
 Script Made By Simple Program Python2.7.
 ## Note
 - **Gunakan Dengan Bijak**
